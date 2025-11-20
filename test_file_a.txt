@@ -1,1 +1,1 @@
-Initial content in main branch
+Modified content in new_branch
